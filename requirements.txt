@@ -1,0 +1,6 @@
+streamlit
+groq
+sympy
+scipy
+numpy
+plotly
